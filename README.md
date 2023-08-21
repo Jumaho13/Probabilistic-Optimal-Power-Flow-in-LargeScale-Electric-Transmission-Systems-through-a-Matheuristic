@@ -1,5 +1,6 @@
 # Probabilistic-Optimal-Power-Flow-in-LargeScale-Electric-Transmission-Systems-through-a-Matheuristic
 This repository contains the file for the IEEE LATIN AMERICA paper Probabilistic Optimal Power Flow in LargeScale Electric Transmission Systems through a Matheuristic Solution Approach
+
 Authors:Wmerson Claro de Oliveira, Jairo Gonzalo Yumbla Romero, Lucas do Carmo Yamaguti, Juan M. Home-Ortiz, and José Roberto Sanches Mantovani, Member, IEEE
 This repository uses AMPL + KNITRO.
 ================================================================================
@@ -22,3 +23,4 @@ experiments carried out using the IEEE 300-bus systems.
 
 Index Terms— Matheuristic, multi-objective optimization,
 probabilistic optimal power flow, VND heuristic approach
+![g-abstract_300](https://github.com/Jumaho13/Probabilistic-Optimal-Power-Flow-in-LargeScale-Electric-Transmission-Systems-through-a-Matheuristic/assets/95504931/fdd7533c-fa4e-4377-b0fe-6d2a53c50e5f)
